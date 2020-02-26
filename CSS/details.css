@@ -297,40 +297,6 @@ body { font-family: sans-serif; }
     height: 100px;
 }
 /*adasdasd*/
-.txt-newProduct {
-    font-size: 18px;
-    display: flex;
-    padding: 0!important;
-    margin-top: 10px;
-}
-.list-box {
-    margin-top: 7px;
-}
-.box-txt-new {
-    padding: 0px 10px 0 10px;
-    font-weight: 400;
-
-}
-.box-txt-new a{
-    color: #fc983c!important;
-    text-decoration: none;
-}
-.list-describe span{
-    border: 1px solid rgb(66, 103, 178);
-    background-color: #CCCCCC;
-    margin-top: 2px;
-    padding: 0px 10px 0px 10px;
-    display: block;
-    color: black;
-}
-.list-describe {
-    padding:20px 0px 20px 0px ;
-    width: 33%;
-}
-.details-describe {
-    display: flex;
-    justify-content: space-between;
-}
 .details-img {
     width: 100%;
     padding: 0px!important;
@@ -339,55 +305,12 @@ body { font-family: sans-serif; }
 .edit-img {
     width: 100%;
 }
-.rotate {
-    background-color: #CCCCCC;
-    -webkit-transition: all 1s;
-    -moz-transition: all 1s;
-    -ms-transition: all 1s;
-    -o-transition: all 1s;
-    transition: all 1s;
-    -webkit-transform: rotateY(45deg);
-    -moz-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    transform: rotate(45deg);
-}
 .details-content {
     padding: 0px!important;
     display: flex;
     justify-content: space-around;
     margin: 0!important;
 }
-.txt-details-car {
+.txt-details {
     padding:30px 20px 0px 20px;
-}
-.formPost {
-    width: 900px;
-    height: auto;
-    background-color: #CCCCCC;
-    margin: 100px auto;
-}
-.box-frm {
-    margin: 100px auto;
-    padding:10px;
-}
-.edit-img12 {
-    display: block;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-}
-.my-btn-car {
-    display: block;
-    text-align: center;
-    margin: 20px auto;
-    padding-bottom: 20px;
-}
-.edit-carousel {
-    margin-top: 30px;
-}
-
-.box-txt-new a:hover {
-    color: #005cbf;
-
 }
